@@ -2,7 +2,7 @@
 //DAMOS UN INICIO
 namespace CalculadoraBasica
 {
-    class Program
+    class Program1
     {
         static void Main(string[] args)
         {
